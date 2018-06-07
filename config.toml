@@ -1,0 +1,3 @@
+id = "myagent1"
+url = "http://localhost:9090/data"
+connector = "./connector.sh"
